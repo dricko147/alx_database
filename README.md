@@ -1,9 +1,6 @@
 # alx_database
 
-
-
-Project badge
-SQL - Introduction
+<h1>SQL - Introduction</h1>
 SQLMySQL
 
     Novice
